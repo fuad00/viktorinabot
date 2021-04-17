@@ -4,7 +4,6 @@
 ### Написан на python 3
 
 
-![](https://komarev.com/ghpvc/?username=acubot&color=blue)
 
 ## Основные составляющие
 
@@ -33,3 +32,6 @@
 1. Протестировано на python3+
 
 2. Идеи/предложения приветствуются
+
+
+![123](https://komarev.com/ghpvc/?username=acubot&color=blue)
