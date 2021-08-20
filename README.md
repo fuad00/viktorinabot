@@ -17,11 +17,11 @@
  ## Установка
 1. Устанавливаем сам питон:
 
-		sudo apt-get update && apt-get -y install python3 python3-pip git
+		 apt-get update && apt-get -y install python3 python3-pip git
 
 2. Клонируем репозиторий и устанавливаем необходимые модули:
 	
-	    git clone https://github.com/fuad00/viktorinabot && cd viktorinabot && pip3 install -r requirements.txt
+	    git clone https://github.com/freeleague/viktorinabot && cd viktorinabot && pip3 install -r requirements.txt
 	
 3. Редактируем переменную `bot_token` в файле `bot.py` на 9 строке.
 
