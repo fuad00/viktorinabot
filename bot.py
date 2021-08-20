@@ -6,7 +6,7 @@ import telebot
 import time
 import asyncio
 
-bot_token = "" # Example: 1163936920:AAHp4_m9Rfl3ocKdWkRfSuhvRHSPmfBE4
+bot_token = "" # Example: 1952297429:AAGj7dGS-FSZEawhImKL8tOWZZwp7fqLQYw
 
 bot = telebot.TeleBot(bot_token)
 
